@@ -1,3 +1,3 @@
-# woohoo-co-nz
+# nz-tax-refunds
 
-https://www.woohoo.co.nz
+https://www.nztaxrefunds.co.nz
